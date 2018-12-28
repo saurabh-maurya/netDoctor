@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-color: white;
+}
+
+h1{
+    font-family: tahoma; 
+    font-size: 60pt;
+    font-style: underline; 
+}
+
+table{
+    float:left;
+    display: inline-block;
+}
+
+#name{
+    margin-left: 10px;
+    width:500px;        
+}
+
+.links{
+    display: inline;
+    float: left;
+    height: 400px;
+    width: 33.33%;
+    margin-left:0px;
+    background-color: black;
+    transition-duration: 0.1s;
+}
+
+.images{
+    height:300px; 
+    width:100%; 
+}
+
+a{
+    text-decoration: none;
+}
+
+.blocks{
+    color:white;
+    text-align: center;
+    font-family: cursive;
+}
+
+.links:hover{
+    background-color: blueviolet;
+    color: white;
+    text-decoration: underline; 
+    transform: scale(1.1); 
+}
+
+
+.table{
+    width:100%;
+}
+
+#grey-area{
+    width: 100%;
+    height: 200px;
+    background-color:grey;
+    color: white;
+}
+
+.contact{
+    display: inline;
+    text-align: left;
+    padding-left:2px; 
+    height:180px; 
+    width:500px;
+    margin-top: 20px;
+    color:white;
+    font-family: sans-serif;
+
+}
+#left{
+    margin-left:90px;
+    float: left;
+}
+
+#right{
+    float: right;
+    margin-right:10px;
+}

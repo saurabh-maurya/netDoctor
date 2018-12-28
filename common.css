@@ -1,0 +1,31 @@
+#big-wrapper{
+            width: 100%;
+            height: 200px;
+            border: 5px;
+            background-color: white;
+            border-color: white;
+            border-style: none;
+            text-align: left;    
+            margin-left: none;
+            margin-right:100px;
+            margin-bottom: auto;
+        }
+
+        .top-section{
+            display: block;
+            float: left;
+            outline-color: white;
+            width: 70%;
+            height: 150px;
+            margin-top: 0px;
+            padding: 2px;
+            position: absolute;
+        }
+        
+        #top-image{
+            position: relative;
+            height: 100%;
+            width: 100%;
+            float: left;
+            outline: none;
+        }
